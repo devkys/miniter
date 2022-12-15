@@ -13,6 +13,34 @@
         <element id="directory" name="classes">
           <element id="module-output" name="miniter" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjrt:1.6.10" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.6" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.6.6" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.6.6" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.0" />
+          <element id="library" level="project" name="Maven: com.mysql:mysql-connector-j:8.0.31" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.19.4" />
+          <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.4" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.4" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.3.2" />
+          <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.3.2" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.2" />
+          <element id="library" level="project" name="Maven: org.imgscalr:imgscalr-lib:4.2" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/miniter-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
